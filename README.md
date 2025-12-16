@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/55697/m/phpiwwcvh-logo.png?v=1673862230" width="200" alt="CodeDrop Gist client macOS application icon"><br>
+ <img src="https://dl2.macupdate.com/images/icons256/62182.png?time=1622554212" width="200" alt="CodeDrop Gist client macOS application icon"><br>
  <a href="https://app-quick-app.github.io/.github/CodeDrop%20Gist%20client">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open CodeDrop Gist client macOS page">
  </a><br><br>
@@ -15,7 +15,7 @@
  </div>
  </td>
  <td align="center" valign="middle">
- <img src="https://static.macupdate.com/screenshots/350378/m/55697-1666934237-scr-screenshot.png?v=1672752148" width="500" alt="CodeDrop Gist client interface showing main workspace">
+ <img src="https://insmac.org/uploads/posts/2022-02/codedrop_02.jpg" width="500" alt="CodeDrop Gist client interface showing main workspace">
  </td>
  </tr>
  </table>
