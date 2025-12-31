@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://dl2.macupdate.com/images/icons256/62182.png?time=1622554212" width="200" alt="CodeDrop Gist client macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/CodeDrop%20Gist%20client">
+ <a href="https://gnomik-gomik-apps.github.io/.github/CodeDrop%20Gist%20client">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open CodeDrop Gist client macOS page">
  </a><br><br>
  <div align="center">
